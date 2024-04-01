@@ -1,0 +1,91 @@
+.nunito {
+    font-family: 'Nunito';
+    letter-spacing: 1px;
+}
+
+.poppins, p {
+    font-family: 'Poppins';
+}
+
+p, .fs-7 {
+    font-size: 14px !important;
+}
+
+.purple {
+    color: #673ab7 !important;
+}
+
+.bg-purple {
+    background-color: #673ab7;
+}
+
+.icon-p-1 {
+    padding: 10px 13px;
+}
+
+.icon-p-2 {
+    padding: 10px 11px;
+}
+
+.icon-p-1:hover, .icon-p-2:hover {
+    background-color: #701dff;
+    padding: 11px 14px;
+    transition: 400ms;
+}
+
+.icon-p-2:hover {
+    padding: 11px 12px;
+}
+
+.img-1 {
+    width: 90px;
+    height: 90px;
+}
+
+.img-2 {
+    width: 75px;
+    height: 75px;
+}
+
+h2, .h2 {
+    font-size: 45px !important;
+    font-weight: 500;
+}
+
+.bg-img-2 {
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.bg-img {
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.icon {
+    width: 150px;
+}
+
+.bolder {
+    color: #616161ff;
+    letter-spacing: 0.5px;
+}
+
+.z:hover {
+    color: #673ab7 !important;
+    transition: 0.5s;
+}
+
+.bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-attachment: scroll;
+}
+
+.relative {
+    position: relative;
+}
